@@ -9,7 +9,7 @@ plugins {
 android {
     namespace = "individual.dmapps.shelf"
     compileSdk = 36
-    ndkVersion = "29.0.13599879"
+    ndkVersion = "29.0.14206865"
 
     compileOptions {
         isCoreLibraryDesugaringEnabled = true
@@ -33,7 +33,7 @@ android {
         applicationId = "individual.dmapps.shelf"
         minSdk = 25
         targetSdk = 36
-        versionCode = 1
+        versionCode = 2
         versionName = "1.0.0"
     }
 

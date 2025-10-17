@@ -110,7 +110,7 @@ class AppStringConstraints {
   static const String elapsedPercentage = 'map_elapsedPercentage';
 
   static const String appStoreLink = 'https://apps.apple.com/ru/developer/imanil-binyaminov/id1564920953';
-  static const String googlePlayLink = 'https://play.google.com/store/apps/dev?id=8618604926669167137';
+  static const String googlePlayLink = 'https://play.google.com/store/apps/dev?id=6670628331565360591';
   static const String telegramLink = 'https://t.me/jmapps';
   static const String instagramLink = 'https://www.instagram.com/dev_muslim';
   static const String ummaLifeLink = 'https://ummalife.com/jmapps';
